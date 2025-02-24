@@ -44,7 +44,7 @@ This project implements a simple encryption and decryption program in Java. It a
 ## Input/Output
 
 - **Input**: User provides text to be encrypted or decrypted and a key (either a shift number for Caesar or a keyword for Vigenère):
-- 
+![Example 1](images/example1.png)
 
 - **Output**: The program outputs the encrypted or decrypted text to the console.
 
