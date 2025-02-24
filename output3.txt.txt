@@ -1,0 +1,4 @@
+Encrypted text: Tpe greishre uac cowrqinitrs aze 53.436 A, 78.926 W.
+
+//Each letter is transformed based on an inputted key.
+//Encryption correctly transforms the original text into a secure format according to the Vigenere cipher rule.

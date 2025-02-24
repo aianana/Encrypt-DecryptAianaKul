@@ -1,0 +1,4 @@
+Decrypted text: The treasure map coordinates are 23.456 N, 78.123 W.
+
+//Each letter is shifted by inputted keyword.
+//Decryption correctly restores the original text according to the Vigenere cipher rule.

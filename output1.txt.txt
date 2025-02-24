@@ -1,0 +1,4 @@
+Encrypted text: Tf ubtily pz 8901234567 JHWPAHS SLAALYZ!!!???...
+
+//Each letter is transformed based on an inputted key.
+//Encryption correctly transforms the original text into a secure format according to the Caesar cipher rule.
